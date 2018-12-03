@@ -250,7 +250,7 @@ header.masthead p {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(240, 95, 64, 0.9);
+  background: rgba(0, 18, 107, 0.9);
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
@@ -314,16 +314,16 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: #4D4D4D;
-  border-color: #4D4D4D;
+  background-color: #00126b;
+  border-color: #00126b;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  color: #fff;
-  background-color: #4D4D4D !important;
+  color: #00126b;
+  background-color: #00126b !important;
 }
 
 .btn-primary:active, .btn-primary:focus {
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
-  box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 70) !important;
+  box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 70) !important;
 }
